@@ -1,3 +1,4 @@
+# Unzip workflow: extracts the repo zip and commits its files
 name: Unzip repo files
 
 on:
